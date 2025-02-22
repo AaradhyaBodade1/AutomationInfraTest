@@ -1,0 +1,4 @@
+VM_NAME=myWindowsVM
+ADMIN_USER=azureuser
+SIZE=Standard_B2s
+DISK_SIZE=127
