@@ -1,4 +1,4 @@
-VM_NAME=myWindowTest
+VM_NAME=myWindowTestOk
 ADMIN_USER=azureuser
 SIZE=Standard_B2s
 DISK_SIZE=127
