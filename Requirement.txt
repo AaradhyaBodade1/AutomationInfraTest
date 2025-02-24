@@ -1,0 +1,4 @@
+VM_NAME=myWindowTestOk
+ADMIN_USER=azureuser123
+SIZE=Standard_B2s
+DISK_SIZE=127
