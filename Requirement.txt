@@ -1,4 +1,4 @@
-VM_NAME=myWindowTestOktest
-ADMIN_USER=azureuser123
+VM_NAME=myWindowTe
+ADMIN_USER=azureuser12
 SIZE=Standard_B2s
 DISK_SIZE=127
