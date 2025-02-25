@@ -1,4 +1,4 @@
-VM_NAME=myWindowTe
+VM_NAME=myWindowTeam
 ADMIN_USER=azureuser1
 SIZE=Standard_B2s
 DISK_SIZE=127
