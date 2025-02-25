@@ -1,4 +1,4 @@
 VM_NAME=testdemovm
-ADMIN_USER=azureuser
+DMIN_USER=azureuser
 SIZE=Standard_B2s
 DISK_SIZE=127
