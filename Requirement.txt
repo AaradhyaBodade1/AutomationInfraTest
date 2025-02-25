@@ -1,4 +1,4 @@
-VM_NAME=myWindowsVM
+VM_NAME=myWindowtest
 ADMIN_USER=azureuser
 SIZE=Standard_F2s_v2
 DISK_SIZE=127
