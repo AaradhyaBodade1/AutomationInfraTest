@@ -1,6 +1,6 @@
 {
-  "VM_NAME": "myWindowVStkm",
-  "ADMIN_USER": "azureaaradhyab",
+  "VM_NAME": "myWindowVdsmbm",
+  "ADMIN_USER": "azureaar",
   "SIZE": "Standard_B2s",
   "DISK_SIZE": 127
 }
