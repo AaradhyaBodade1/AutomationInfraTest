@@ -1,5 +1,5 @@
 {
-  "VM_NAME": "myWindowVmaara",
+  "VM_NAME": "myWindowVmaar",
   "ADMIN_USER": "azureuser",
   "SIZE": "Standard_B2s",
   "DISK_SIZE": 127
